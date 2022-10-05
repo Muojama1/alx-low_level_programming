@@ -1,1 +1,1 @@
-malloc free
+static library
